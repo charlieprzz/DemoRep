@@ -7,5 +7,9 @@ public class DemoDay2 {
 		System.out.println("test");
 		System.out.println("Test");
 	}
+	
+	public static void subtract(int a, int b) {
+		System.out.println(a - b);
+	}
 
 }
